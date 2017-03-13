@@ -248,3 +248,14 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+
+/* Custom */
+.strokeme
+{
+    color: #212121;
+    text-shadow:
+    -2px -2px 0 #fff,
+    2px -2px 0 #fff,
+    -2px 2px 0 #fff,
+    2px 2px 0 #fff;
+}
